@@ -1,0 +1,17 @@
+[33m167d763[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Add app_theme styling
+[33mc27cfa9[m Add storage_service for local data persistence
+[33m9b43467[m Add statistics_cards widget
+[33m9f9017e[m Add planner_tabs widget
+[33m4baa057[m Add planner_table widget
+[33mbccda96[m Add add_item_form widget
+[33m70da47a[m Add home_screen UI
+[33me262d19[m Add schedule_item model
+[33me3f934e[m Add task model
+[33md194f05[m Add venue_item model
+[33m48ebb4f[m Add ingredient model
+[33m5f2fd8d[m Add equipment model
+[33m99fd9aa[m Add drink model
+[33m6ebea37[m Add food model
+[33m83cee91[m Add guest model
+[33m3f26a0d[m Add main.dart entry point
+[33m8b4e5fa[m Add pubspec.yaml configuration
